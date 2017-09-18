@@ -1,0 +1,13 @@
+Source: gnome-shell-extension-alt-tab-raise-first-window
+Section: gnome
+Priority: optional
+Maintainer: Jeremy Soller <jeremy@system76.com>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 3.9.8
+Homepage: https://github.com/system76/alt-tab-raise-first-window
+Vcs-Git: https://github.com/system76/alt-tab-raise-first-window.git
+
+Package: gnome-shell-extension-alt-tab-raise-first-window
+Architecture: all
+Depends: gnome-shell (>= 3.25), ${misc:Depends}
+Description: Gnome-shell extension to always show workspaces in overview
