@@ -9,7 +9,11 @@
     "3.18",
     "3.20",
     "3.22",
-    "3.24"
+    "3.24",
+    "3.26",
+    "3.28",
+    "3.30",
+    "3.32"
   ],
   "url": "https://github.com/system76/alt-tab-raise-first-window",
   "uuid": "alt-tab-raise-first-window@system76.com",
